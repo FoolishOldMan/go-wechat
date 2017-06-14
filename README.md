@@ -1,4 +1,4 @@
-# go-wechat
+# wechat
 
 go语言版微信SDK-开发阶段
 
