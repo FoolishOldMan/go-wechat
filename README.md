@@ -43,7 +43,8 @@ go语言版微信SDK-开发阶段
 
 **3.拉取用户信息**
 
-`GetUserInfo(userAccessToken UserAccessToken) 通过userAccessToken换取用户信息，如果scope为 snsapi_userinfo 则可以通过此方法获取到用户基本信息`
+`GetUserInfo(userAccessToken UserAccessToken) 通过userAccessToken换取用户信息，如果scope为 snsapi_userinfo 则可以通过此方法获取到用户基本信`
+
 **4.刷新access_token**
 
 `RefreshUserAccessToken(refreshToken string) 刷新access_token`
